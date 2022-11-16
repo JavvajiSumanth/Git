@@ -1,3 +1,3 @@
 # Git
 
-Git tutorial
+Git tutorial for beginners
